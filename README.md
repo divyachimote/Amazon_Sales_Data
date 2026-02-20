@@ -22,7 +22,11 @@ Make data-driven business decisions
 📈 Key Dashboard Features
 
 ✔ Total Sales, Profit & Quantity KPIs
+
 ✔ Category & Sub-Category Performance Analysis
+
 ✔ Region and State-wise Sales Distribution
+
 ✔ Monthly Sales & Profit Trend Analysis
+
 ✔ Interactive Filters for Dynamic Exploration
